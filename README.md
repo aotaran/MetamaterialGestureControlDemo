@@ -8,7 +8,7 @@ How to use the files in this repo:
 
 Please follow the links below for more information. 
 
-* Video of the demo (coming soon!)
+* Videos of the demo: [video1](https://youtu.be/sN86qg6XtPE), [video2](https://youtu.be/eOc0VS4T_VA)
 * [Publication related to this demo](https://dl.acm.org/doi/10.1145/3689050.3704942)
 * [Github repository for design and simulation of presented shape-changing interfaces](https://github.com/aotaran/MetamaterialDesignAndSimulation)
 
